@@ -49,4 +49,8 @@ The project aims to **differentiate between expected process variations and real
 ```bash
 git clone https://github.com/Akhil-Kambhatla/GNN-Based-Anomaly-Detection.git
 cd your-repo-name
-pip install -r requirements.txt
+pip install torch torchvision torchaudio
+pip install torch-geometric
+pip install networkx
+pip install matplotlib seaborn pandas numpy scikit-learn
+
